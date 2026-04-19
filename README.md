@@ -11,7 +11,9 @@ A content-based movie recommendation web app built with **FastAPI** and **Python
 
 ## 🖥️ Screenshots
 
-> Search "Batman" → get the best match with poster, rating, and description → see 12 smart recommendations below
+![Pictura Search Page](s1.png)
+
+![Pictura Movie Detail](s2.png)
 
 ---
 
@@ -69,7 +71,7 @@ pictura/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/pictura.git
+git clone https://github.com/Anand-R22/pictura.git
 cd pictura
 ```
 
@@ -151,5 +153,5 @@ Open your browser at **http://localhost:8000**
 
 ## 👤 Author
 
-**Your Name**
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+**Anand R**
+[GitHub](https://github.com/Anand-R22) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
